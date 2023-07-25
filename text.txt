@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Hoje estou ainda mais lembrando das coisas
+<<<<<<< HEAD
 mais uma linha
 
 
@@ -9,3 +10,5 @@ mais uma linha
 
 =======
 >>>>>>> parent of fee5874 (add text)
+=======
+>>>>>>> parent of 02a3c59 (add more text)
