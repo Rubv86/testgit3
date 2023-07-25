@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hoje estou ainda mais lembrando das coisas
 mais uma linha
 
@@ -6,3 +7,5 @@ mais uma linha
 
 
 
+=======
+>>>>>>> parent of fee5874 (add text)
